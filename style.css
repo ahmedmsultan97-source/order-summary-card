@@ -92,7 +92,9 @@ body {
     padding: 12px;
     color: #fff;
     border-radius: 8px;
-
+    box-shadow: -1px 87px 28px -54px rgba(93, 64, 209, 0.69);
+    -webkit-box-shadow: -1px 87px 28px -54px rgba(93, 64, 209, 0.69);
+    -moz-box-shadow: -1px 87px 28px -54px rgba(93, 64, 209, 0.69);
 }
 
 .cancel {
